@@ -1,0 +1,14 @@
+v1	k1
+v2	k1	k4
+v3	k2
+v4	k2	k5
+v5	k3
+v6	k3	k6
+v7	k7
+v8	k8
+v9	k9
+v10	k10
+v11	k11
+v12	k12
+v13	k13
+v14	k14
